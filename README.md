@@ -1,8 +1,4 @@
 
-<!--Banner session-->
-<!-- <p align="center"><img src="https://imgur.com/jSBcQQe.png"/><br> -->
-<!-- <a align="center"><img src="https://i.imgur.com/uTk6zzB.png"/><br> -->
-
 <!--About session-->
 <h3>So... Hello, I'm Matheus and welcome to my GitHub </h3>
 <span><em>Computer Engineering Student at UFPel</em></span><br>
@@ -16,8 +12,6 @@
 
 
 ##
-<!-- https://www.youtube.com/watch?v=dQw4w9WgXcQ -->
-<!-- Badges session -->
 
 <span><img src="https://visitor-badge.laobi.icu/badge?page_id=CoolHatEntity" alt="CoolHatEntity"/></span>
 <a href="https://github.com/CoolHatEntity" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=lat-square&logo=github&logoColor=white" alt="GitHub"></a>
