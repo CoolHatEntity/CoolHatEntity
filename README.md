@@ -20,8 +20,8 @@
 
 <div align="center">
   <a href="https://github.com/mathsmnz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CoolHatEntity&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=CoolHatEntity&layout=compact&langs_count=15&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathsmnz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathsmnz&layout=compact&langs_count=15&theme=tokyonight" />
 </div>
 
 ##
